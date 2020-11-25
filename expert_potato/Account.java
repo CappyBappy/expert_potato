@@ -62,6 +62,7 @@ public class Account {
         System.out.println("E. Calculate interest amount");
         System.out.println("F. Calculate prospective account amount");
         System.out.println("G. Exit app");
+        //comment to see if github stuff works this way
 
     }
 }
